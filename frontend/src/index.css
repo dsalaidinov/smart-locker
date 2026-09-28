@@ -1,0 +1,8 @@
+/* Global resets — minimal, App.css has the design system */
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
